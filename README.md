@@ -26,3 +26,17 @@ Projek ini adalah contoh implementasi CRUD (Create, Read, Update, Delete) menggu
 ## Kontribusi
 
 Jika Anda ingin berkontribusi pada projek ini, silakan lakukan pull request dengan perubahan yang Anda inginkan. Pastikan perubahan Anda sesuai dengan tujuan dan struktur projek ini.
+
+```
+    ini digunakan untuk membuat code
+```
+
+### ini hastag 3
+
+#### hastag 4
+
+###### hastag 6
+
+<img src="./img/Screenshot_2.png">
+<a href="https://youtube.com">link youtube</a>
+<video src="./video/contoh_video.mp4" controls></video>
